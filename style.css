@@ -1,0 +1,103 @@
+.bod{
+    background-color: antiquewhite;
+}
+/* bg-back-ground color for container */
+.bg{
+    background-color: white;
+}
+/* nav bar link */
+.a{
+    height: 180px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+.link{
+    padding-left: 60px;
+    display: flex;
+    justify-content: start !important;
+    align-items: start !important;
+    background-color: black;
+}
+a{
+    color: white !important;
+    padding: 5px;
+}
+/* main content */
+dt{
+    padding-top: 40px;
+
+}
+/* image */
+img{
+    width: 80%;
+    padding-top: 170px;
+    padding-left: 70px;
+    
+}
+/* button */
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 6px solid white;
+    padding: 5px;
+}
+.silver{
+    background-color: silver;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color:#EC5800 ;
+}
+.v{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    
+}
+/* Quote */
+.quote{
+    background-color: black;
+    color: white;
+    height: 110px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+/* awards */
+.award{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h5{
+    padding-top: 55px;
+}
+p{
+    text-align: center;
+}
+/* award border */
+.bo{
+    border: 1px solid black !important;
+}
+/* footer */
+.footer{
+    background-color: black;
+    height: 90px;
+    text-align: center;
+    color: white;
+    padding-top: 29px;
+}
+.b{
+    border-right:1px solid silver;
+
+}
